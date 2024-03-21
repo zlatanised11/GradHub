@@ -1,0 +1,2 @@
+Sender,receiver,requestDate,resolveDate,status,bp,sugarLevel,bodyTemp,diabetic,maxBP,minBP
+john,null,Sun Dec 10 23:52:32 EST 2023,null,Sent,true,null,null,false,null,null
